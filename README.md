@@ -5,6 +5,6 @@
 <img width="1431" alt="Zrzut ekranu 2022-07-31 o 16 48 58" src="https://user-images.githubusercontent.com/67802673/182032802-cfbdad53-4db8-4b4a-a704-1370d11b9982.png">
 
 * Wersja na mniejsze ekrany
-<img width="518" alt="Zrzut ekranu 2022-07-31 o 16 48 23" src="https://user-images.githubusercontent.com/67802673/182032891-b9911a99-8082-44ae-b829-7253e4b20672.png">
-<img width="516" alt="Zrzut ekranu 2022-07-31 o 16 48 43" src="https://user-images.githubusercontent.com/67802673/182032907-20e888a3-19fc-4838-ad8b-dab3889891e2.png">
+<img width="900" alt="1" src="https://user-images.githubusercontent.com/67802673/182033160-2cda693a-8371-4640-b16b-9e148df5b591.png">
+<img width="900" alt="2" src="https://user-images.githubusercontent.com/67802673/182033175-190f6794-ac6b-458c-869d-05f90e96a6e8.png">
 
