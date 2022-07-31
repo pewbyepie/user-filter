@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #f8f9fd;
+  font-family: 'Mouse Memoirs';
+  font-size: 1.45rem;
+  height: 100vh;
+}
+
+body .container {
+  -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  width: 25rem;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+
+body .header-container {
+  background-color: #3b5998;
+  color: #fff;
+  padding: 30px 20px;
+  margin: 0;
+}
+
+body .header-container input {
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 0;
+  border-radius: 50px;
+  color: #fff;
+  font-size: 14px;
+  padding: 10px 15px;
+  width: 100%;
+  margin-top: 1.5rem;
+  font-family: 'Mouse Memoirs';
+  font-size: 1.15rem;
+}
+
+body .header-container input:focus {
+  outline: none;
+}
+
+body .user-filter {
+  background-color: #fff;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+body .user-filter li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+}
+
+body .user-filter img {
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 50px;
+  width: 50px;
+}
+
+body .user-filter .user-info {
+  margin-left: 10px;
+}
+
+body .user-filter .user-info h4 {
+  margin: 0 0 10px;
+}
+
+body .user-filter .user-info p {
+  font-size: 12px;
+}
+
+body .user-filter li:not(:last-of-type) {
+  border-bottom: 1px solid #eee;
+}
+
+body .user-filter li.hide {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */
